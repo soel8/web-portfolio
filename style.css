@@ -1,9 +1,20 @@
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 h1{
     font-size: 50px;
 }
 .name-highlight{
     color: orange;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+
+}
+.half-width img{ 
+ width: 60%;
+
 }
